@@ -535,7 +535,7 @@ def main():
                     print("No character loaded!")
             
             elif haven_choice == '5':
-                return
+                continue
 
         elif choice == '6':
             print("\n Thanks for playing! See you next time.")
